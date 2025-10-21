@@ -14,9 +14,6 @@ if (isset($_GET['signup'])) {
     //
 }
 ?>
-<!-- <?php
-echo "My Php Project"
-    ?> -->
 
 <body>
 
